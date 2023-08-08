@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "projecta-bbc10": {
+      "hosting": {
+        "ShortChat": [
+          "aaaaaav"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "projecta-bbc10"
+  }
+}

@@ -97,8 +97,18 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "version": 2,
+            "browserTarget": "ShortChat:build:production"
+          }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "cbccfd64-80b6-412c-ba0d-dfa357fab7ff"
   }
 }
